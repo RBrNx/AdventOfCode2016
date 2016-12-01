@@ -1,0 +1,12 @@
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.exe.config
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.exe
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.pdb
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\obj\Debug\AdventOfCode2016.exe
+c:\users\watsonco.reynolds\documents\visual studio 2015\Projects\AdventOfCode2016\AdventOfCode2016\obj\Debug\AdventOfCode2016.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.exe.config
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\obj\Debug\AdventOfCode2016.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\obj\Debug\AdventOfCode2016.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\obj\Debug\Day1.csprojResolveAssemblyReference.cache
