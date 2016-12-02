@@ -10,3 +10,6 @@ C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\ob
 C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.exe
 C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\bin\Debug\AdventOfCode2016.pdb
 C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\AdventOfCode2016\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day1\bin\Debug\AdventOfCode2016.exe.config
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day1\obj\Debug\AdventOfCode2016.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day1\obj\Debug\AdventOfCode2016.pdb
