@@ -80,10 +80,15 @@ namespace Day5
 
         static void Main(string[] args)
         {
-            //Part1();
-            Part2();  
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+            // the code that you want to measure comes here
+            Part1();
+            //Part2();
+            watch.Stop();
+            var elapsedMs = watch.ElapsedMilliseconds;
 
             Console.WriteLine("Door Password is: " + password);
+            Console.WriteLine("Time is took is" + elapsedMs);
             Console.Read();
         }
     }

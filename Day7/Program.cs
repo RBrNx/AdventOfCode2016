@@ -77,7 +77,10 @@ namespace Day7
                         }
                     }
 
-                    if (supportsTLS) TLSIPCount++;
+                    if (supportsTLS)
+                    {
+                        TLSIPCount++;
+                    }
                 }
             }
         }
