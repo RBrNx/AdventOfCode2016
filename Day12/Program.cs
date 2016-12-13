@@ -9,7 +9,7 @@ namespace Day12
 {
     class Program
     {
-        static Dictionary<string, int> Registers = new Dictionary<string, int>() { { "a", 0 }, { "b", 0 }, { "c", 0 }, { "d", 0 } };
+        static Dictionary<string, int> Registers = new Dictionary<string, int>() { { "a", 0 }, { "b", 0 }, { "c", 1 }, { "d", 0 } }; // c = 0 Part 1, c = 1 Part 2
 
         static void copy(string x, string y)
         {
@@ -17,25 +17,25 @@ namespace Day12
             bool isNum = int.TryParse(x, out n);
             if (isNum)
             {
-                Console.WriteLine("Copy " + x + " to " + y);
+                //Console.WriteLine("Copy " + x + " to " + y);
                 Registers[y] = n;
             }
             else
             {
-                Console.WriteLine("Copy " + x + " to " + y);
+                //Console.WriteLine("Copy " + x + " to " + y);
                 Registers[y] = Registers[x];
             }
         }
 
         static void increment(string x)
         {
-            Console.WriteLine("Increment " + x);
+            //Console.WriteLine("Increment " + x);
             Registers[x] += 1;
         }
 
         static void decrement(string x)
         {
-            Console.WriteLine("Decrement " + x);
+            //Console.WriteLine("Decrement " + x);
             Registers[x] -= 1;
         }
 
@@ -47,10 +47,12 @@ namespace Day12
             {
                 if(Registers[x] != 0)
                 {
+                    //Console.WriteLine("Jump " + y);
                     return int.Parse(y);
                 }
                 else
                 {
+                    //Console.WriteLine("Jump ignored");
                     return 1;
                 }             
             }
@@ -58,10 +60,12 @@ namespace Day12
             {
                 if (n != 0)
                 {
+                    //Console.WriteLine("Jump " + y);
                     return int.Parse(y);
                 }
                 else
                 {
+                    //Console.WriteLine("Jump ignored");
                     return 1;
                 }
             }
