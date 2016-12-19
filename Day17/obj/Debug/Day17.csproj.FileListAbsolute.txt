@@ -1,0 +1,6 @@
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\bin\Debug\Day17.exe.config
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\bin\Debug\Day17.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\bin\Debug\Day17.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\obj\Debug\Day17.csprojResolveAssemblyReference.cache
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\obj\Debug\Day17.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day17\obj\Debug\Day17.pdb
