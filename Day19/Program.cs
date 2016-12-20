@@ -22,6 +22,18 @@ namespace Day19
 
     class Program
     {
+        //With thanks to /u/caeonosphere for Part 2
+        static int Part2(int n)
+        {
+            int pow = (int)Math.Floor(Math.Log(n) / Math.Log(3));
+            int b = (int)Math.Pow(3, pow);
+            if (n == b)
+                return n;
+            if (n - b <= b)
+                return n - b;
+            return 2 * n - 3 * b;
+        }
+
         static void Main(string[] args)
         {
             int input = 3014387;
@@ -51,7 +63,8 @@ namespace Day19
                 }
             }
 
-            Console.WriteLine("The greedy elf is #" + (elves[0].position + 1) + " who has " + elves[0].presents + " presents");
+            Console.WriteLine("The greedy elf for Part 1 is #" + (elves[0].position + 1) + " who has " + elves[0].presents + " presents");
+            Console.WriteLine("The greedy elf for Part 2 is #" + Part2(input));
             Console.Read();
         }
     }
