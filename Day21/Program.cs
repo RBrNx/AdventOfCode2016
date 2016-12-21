@@ -114,9 +114,6 @@ namespace Day21
             string scrambled = unscrambled;
             string[] operations = File.ReadAllLines("../../input.txt");
 
-            string y = findOrigPosition("fbgdceah", 'f');
-            string x = rotateBasedPosition(y, 'f');
-
             foreach (string line in operations)
             {
                 string operation = line.Split(' ')[0];
