@@ -1,0 +1,5 @@
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day23\bin\Release\Day23.exe.config
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day23\bin\Release\Day23.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day23\bin\Release\Day23.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day23\obj\Release\Day23.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day23\obj\Release\Day23.pdb
