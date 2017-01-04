@@ -1,0 +1,6 @@
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\bin\Debug\Day24.exe.config
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\obj\Debug\Day24.csprojResolveAssemblyReference.cache
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\bin\Debug\Day24.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\bin\Debug\Day24.pdb
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\obj\Debug\Day24.exe
+C:\Users\watsonco.REYNOLDS\Documents\GitHub\AdventOfCode2016\Day24\obj\Debug\Day24.pdb
